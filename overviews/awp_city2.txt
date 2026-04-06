@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.95
+	ORIGIN	1237.31	1534.83	-65
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/awp_city2.bmp"
+	HEIGHT	-65
+}

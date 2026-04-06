@@ -1,0 +1,14 @@
+// overview description file for cs_chavo.bsp
+
+global 
+{
+	ZOOM	1.82
+	ORIGIN	510.00 	419	21
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_chavo.bmp"
+	HEIGHT	-192
+}

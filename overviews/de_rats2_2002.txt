@@ -1,0 +1,14 @@
+// overview description file for de_rats2_2002.bsp
+
+global 
+{
+	ZOOM	3.05
+	ORIGIN	-244.75 	-2050	589.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_rats2_2002.bmp"
+	HEIGHT	589.50
+}

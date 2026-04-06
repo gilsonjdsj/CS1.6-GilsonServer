@@ -1,0 +1,14 @@
+// overview description file for de_campinas.bsp
+
+global 
+{
+	ZOOM	0.96
+	ORIGIN	-112 	-640	688
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_campinas.bmp"
+	HEIGHT	0
+}
