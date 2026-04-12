@@ -1,0 +1,17 @@
+// overview description file for fy_city.bsp
+
+global 
+{
+	ZOOM	1.19
+	ORIGIN	-416 	480	416
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/fy_city.bmp"
+	HEIGHT	-193
+}
+
+
+Zoom 1.19, Map Origin (-416.00, 480.00, 416.00), Z Min 1025.00, Z Max -193.00, Rotated 1
