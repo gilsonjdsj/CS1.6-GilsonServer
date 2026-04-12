@@ -1,0 +1,14 @@
+// overview description file for es_cell.bsp
+
+global 
+{
+	ZOOM	1.46
+	ORIGIN	-1160	-64	-433
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/es_cell.bmp"
+	HEIGHT	-433
+}
