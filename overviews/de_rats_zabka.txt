@@ -1,0 +1,14 @@
+global 
+{
+	ZOOM	1.78
+	ORIGIN	375.13 	407.90	80.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_rats_zabka.bmp"
+	HEIGHT	-196.00
+}
+//Overview: Zoom 1.78, Map Origin (375.13, 407.90, 80.00), Z Min 353.00, Z Max -196.00, Rotated 0 albo 1
+//Overview: Zoom 2.43, Map Origin (196.50, -112.00, 80.00), Z Min 673.00, Z Max -513.00, Rotated 1
