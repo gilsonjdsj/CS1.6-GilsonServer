@@ -1,0 +1,14 @@
+// overview description file for de_metrosp.bsp
+
+global 
+{
+	ZOOM	2.06
+	ORIGIN	-704.62 231.62 -433
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_metrosp.bmp"
+	HEIGHT	-433
+}
