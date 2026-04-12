@@ -1,0 +1,14 @@
+// overview description file for es_sewers.bsp
+
+global 
+{
+	ZOOM	1.10
+	ORIGIN	92.00 	-494.50	269.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/es_sewers.bmp"
+	HEIGHT	-318.00
+}
