@@ -1,0 +1,15 @@
+// overview description file for de_iran.bsp
+
+global 
+{
+	ZOOM	2.65
+	ORIGIN	505.39 	1023.19	152.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_iran.bmp"
+	HEIGHT	 -81.00
+}
+
